@@ -11,7 +11,8 @@ Currently, two official plugins are available:
 
 ### You can see the code of the challenge here: [code files](./src/)
 
-### [ pull request class 31](https://github.com/Mohammad-Aljamal/todo-app/pull/1)
+### [ pull request class 31 part 1](https://github.com/Mohammad-Aljamal/todo-app/pull/1)  & ### [ pull request class 31 part 2](https://github.com/Mohammad-Aljamal/todo-app/pull/2)
+ 
 
 
 
